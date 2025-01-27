@@ -39,3 +39,6 @@ Data Visualisation: Empowering Business with Effective Insights Gain insights in
                             2] Effective Communication 
                             
                             3] Analytics & Insights
+
+![image](https://github.com/user-attachments/assets/38c45b02-cbaf-4f9a-a89d-b9242d6c304b)
+
